@@ -1,0 +1,32 @@
+.library-container {
+  padding: 2rem;
+}
+
+.library-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.book-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.book-card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+
+.book-card a {
+  text-decoration: none;
+  color: #0070f3;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.book-card a:hover {
+  text-decoration: underline;
+}
