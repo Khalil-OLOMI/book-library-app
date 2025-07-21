@@ -1,6 +1,3 @@
-### ✅ `README.md`
-
-````md
 # 📚 Book Library App
 
 A full-stack web application for managing a collection of books with genres and authors.
